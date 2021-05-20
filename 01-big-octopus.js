@@ -27,13 +27,13 @@ function nlognBiggestFish(fishies) {
   //   return longest
   // }
   // for (let i = 0; i <= 1; i++) {
-  //   let fish = fishes[i]
+  //   let fish = fishies[i]
   //   if (fish.length > longest.length) {
   //     longest = fish
   //   }
   // }
-  // fishes.shift()
-  // return nlognBiggestFish(fishes, longest)
+  // fishies.shift()
+  // return nlognBiggestFish(fishies, longest)
 }
 
 // console.log(nlognBiggestFish(fishies))
